@@ -1,4 +1,4 @@
-# ui-tab
+# ui-tabs
 
 
 <h1>Tab switcher</>
